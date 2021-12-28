@@ -147,6 +147,7 @@ namespace WindowsApplication1
             // 
             // lbl_pt
             // 
+            this.lbl_pt.BackColor = System.Drawing.SystemColors.Control;
             this.lbl_pt.Font = new System.Drawing.Font("Times New Roman", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lbl_pt.Location = new System.Drawing.Point(15, 215);
             this.lbl_pt.Name = "lbl_pt";

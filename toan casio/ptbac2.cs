@@ -39,6 +39,7 @@ namespace WindowsApplication1
         private void txt_a_TextChanged(object sender, EventArgs e)
         {
             lbl_pt.Text = txt_a.Text + "x² + " + txt_b.Text + "x + " + txt_c.Text + " = 0";
+            
         }
 
         private void txt_b_TextChanged(object sender, EventArgs e)
